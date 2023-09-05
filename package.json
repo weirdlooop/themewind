@@ -1,0 +1,32 @@
+{
+  "name": "themewind",
+  "version": "1.0.0",
+  "description": "Tailwind theming with optional shade generation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weirdlooop/themewind.git"
+  },
+  "keywords": [
+    "tailwind",
+    "themes",
+    "theming",
+    "css",
+    "colors",
+    "generator",
+    "shading"
+  ],
+  "author": "Carl Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weirdlooop/themewind/issues"
+  },
+  "homepage": "https://github.com/weirdlooop/themewind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1"
+  }
+}
