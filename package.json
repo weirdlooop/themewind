@@ -1,6 +1,6 @@
 {
   "name": "themewind",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Tailwind theming with optional shade generation",
   "main": "index.js",
   "scripts": {},
